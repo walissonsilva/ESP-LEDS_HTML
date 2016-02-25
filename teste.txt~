@@ -1,0 +1,39 @@
+<html>
+<head>
+	<meta meta charset=UTF-8 />
+    <title>Walisson Silva</title>
+    <style>
+		#topo {width:100%; background: #FF0000}
+		#corpo {width:100%; background: #FFFFFF; font-size:100%}
+		#rodape {width:100%; background: #FFFFFF}
+		#but1, #but2, #but3 {
+			-webkit-border-radius: 28;
+			-moz-border-radius: 28;
+			border-radius: 40%;
+			font-family: Courier New;
+			color: #ffffff;
+			font-size: 100%;
+			background: #ff0000;
+			padding: 1% 2% 1% 2%;
+			text-decoration: none;
+		}
+    </style>
+</head>
+
+<body>
+<div id="topo">
+<center><img width="250px" src="http://img00.deviantart.net/4f80/i/2008/134/e/7/flash_logo_by_madrox123.png"/></center>
+</div>
+<div id="corpo">
+<br>
+<center><p>Botoes:</p>
+<a href=\"?pin1=ON1\"> <button id="but1">ON</button></a>
+<a href=\"?pin1=OFF1\"> <button id="but2">OFF</button> </a>
+</center>
+</div>
+<div id="rodape">
+<br>
+<center>Copyright &copy, 2016.</center>
+</div>
+</body>
+</html>
